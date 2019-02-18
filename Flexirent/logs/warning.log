@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-01-24T13:42:13</date>
+  <millis>1548297733155</millis>
+  <sequence>1</sequence>
+  <logger>application.Main</logger>
+  <level>WARNING</level>
+  <class>application.Main</class>
+  <method>start</method>
+  <thread>14</thread>
+  <message>This is a warning</message>
+</record>
+</log>

@@ -1,0 +1,35 @@
+A_101CollinsDocklands:101:Collins:Docklands:Apartment:1:null:Rented:A great apartment right next to the new end of Melbourne CBD. Close to everything!:143.0E0:107273158.jpg
+A_123fgsfdsdfNorthMelbourne:123:fgsfdsdf:North Melbourne:Apartment:2:null:Rented:This apartment has fantastic views of Melbournes Northern subrubs from the 32nd floor:210.0E0:109007925.jpg
+A_12LaTrobeStreetMelbourne:12:La Trobe Street:Melbourne:Apartment:2:null:Available:weheoiwhiowoigpiwjpijwpijwpoigjpwoejfpiwejfpiwjefpijwepijwpiefjpwiejfpiwjewefsfds:210.0E0:123223823.jpg
+A_23KelisiStreetDocklands:23:Kelisi Street:Docklands:Apartment:1:null:Available:This is a very cute propety located in the CBD Parisian area. Grab a crepe for breakfast!:143.0E0:157263905.jpg
+A_32JohnStreetNorthMelbourne:32:John Street:North Melbourne:Apartment:2:null:Available:This cute little apartment is next a collection of quirky cafes in the North fo Melbourne CBD:210.0E0:107276186.jpg
+A_456RoyalParadeParkville:456:Royal Parade:Parkville:Apartment:2:null:Available:A beautiful apartment in a great locaiton. Near lots of shopping and Food. Great cafes too:210.0E0:151708877.jpg
+A_52RalphStreetParkville:52:Ralph Street:Parkville:Apartment:3:null:Available:A beautiful apartment on a beautiful street. This apartment is right near the zoo:319.0E0:109007925.jpg
+A_5PoppyRoadCarlton:5:Poppy Road:Carlton:Apartment:2:null:Available:This massive apartment has some fantastic city views and is close to public transport:210.0E0:123068345.jpg
+A_6454SwanLanePortMelbourne:6454:Swan Lane:Port Melbourne:Apartment:2:null:Available:sfdnmvsjvijpdkjfvsagfdgdfgdfgsfgdfdgdfgfd dfrgfdg dfgdfgfdgdfgdfgfdgfdgdfgdfgdfs:210.0E0:151708877.jpg
+A_70RathdownStreetCarlton:70:Rathdown Street:Carlton:Apartment:1:null:Available:This apartment is in a fantastic location close to lots of resaurants and cafes :143.0E0:151708877.jpg
+A_72JamesStreetDocklands:72:James Street:Docklands:Apartment:1:null:Available:spidngsdgipsigjidjfrgijdsfjgfdjgiojdfijgjfdgdfgadfgbsGSdgsdgfsdfsfdsdfsdfsdfsdgHS:143.0E0:18426138.jpg
+S_100DockersStreetPortMelbourne:100:Dockers Street:Port Melbourne:Premium Suite:1:2018-10-17:Available:This Permium Suite is right next to the beach and very close to lots of great restaurants:554.0E0:48708721.jpg
+S_12LaTrobeStreetMelbourne:12:La Trobe Street:Melbourne:Premium Suite:1:2018-10-12:Available:A great premium suite close to lots of shops and restaurants in the middle of the city:554.0E0:43578658.jpg
+S_15CardiganStreetCarlton:15:Cardigan Street:Carlton:Premium Suite:1:2018-10-16:Available:Right next to Melbourne Italian district. Great food and cafes in a beautiful area:554.0E0:43578588.jpg
+S_23LygonStreetCarlton:23:Lygon Street:Carlton:Premium Suite:1:2018-10-19:Available:This property is in a fantastic location, amongst all the cafes and restaurants in Lygon Street:554.0E0:151708376.jpg
+S_25FlindersStreetMelbourne:25:Flinders Street:Melbourne:Premium Suite:1:2018-10-17:Available:A great property in a fantastic location. Right next to flinders street station.:554.0E0:18426138.jpg
+S_50SmallplaceSouthBank:50:Small place:South Bank:Premium Suite:1:2018-10-16:Available:Positioned right next to the Yarra River, you will enjoy fantastic views from this Premium Suite:554.0E0:48708708.jpg
+A_101CollinsDocklands_CUS112_24102018:2018-10-24:2018-11-04:2018-12-07:1573.0E0:5426.85E0
+A_101CollinsDocklands_CUS122_25102018:2018-10-25:2018-10-26:2018-11-07:143.0E0:1973.4E0
+A_101CollinsDocklands_CUS123_02112018:2018-11-02:2018-11-09:null:0.0E0:0.0E0
+A_101CollinsDocklands_CUS123_24102018:2018-10-24:2018-11-02:2018-11-02:1287.0E0:0.0E0
+A_101CollinsDocklands_CUS169_20102018:2018-10-20:2018-10-25:2018-10-25:715.0E0:0.0E0
+A_101CollinsDocklands_CUS332_24102018:2018-10-24:2018-10-26:2018-11-01:286.0E0:986.7E0
+A_101CollinsDocklands_CUS_30102018:2018-10-30:2018-10-31:2018-11-02:143.0E0:328.9E0
+A_123fgsfdsdfNorthMelbourne_CUS123_23102018:2018-10-23:2018-10-30:null:0.0E0:0.0E0
+A_12LaTrobeStreetMelbourne_CUS123_31102018:2018-10-31:2018-11-03:2018-11-03:630.0E0:0.0E0
+A_32JohnStreetNorthMelbourne_CUS111_19102018:2018-10-19:2018-10-31:2018-10-26:1470.0E0:0.0E0
+A_32JohnStreetNorthMelbourne_CUS122_01112018:2018-11-01:2018-11-09:2018-11-09:1680.0E0:0.0E0
+A_32JohnStreetNorthMelbourne_CUS125_30102018:2018-10-30:2018-11-15:2018-11-03:840.0E0:0.0E0
+A_32JohnStreetNorthMelbourne_CUS321_31102018:2018-10-31:2018-11-08:2018-11-08:1680.0E0:0.0E0
+A_52RalphStreetParkville_CUS123_03112018:2018-11-03:2018-11-08:2018-11-08:1595.0E0:0.0E0
+A_52RalphStreetParkville_CUS134_31102018:2018-10-31:2018-11-02:2018-11-01:319.0E0:0.0E0
+A_6454SwanLanePortMelbourne_CUS127_01112018:2018-11-01:2018-11-02:2018-11-09:210.0E0:1690.5E0
+A_70RathdownStreetCarlton_CUS112_19102018:2018-10-19:2018-11-02:2018-11-01:1859.0E0:0.0E0
+A_72JamesStreetDocklands_CUS221_29102018:2018-10-29:2018-11-01:2018-11-09:429.0E0:1315.6E0
